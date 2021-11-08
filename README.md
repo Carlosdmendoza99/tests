@@ -1,0 +1,2 @@
+# tests
+Remove Event Image
